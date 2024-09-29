@@ -92,4 +92,61 @@ button
 }
 
 
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    
+    
+    
+}
 
+.border1{
+    border: 1px solid blue;
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20%;
+    
+}
+
+.border2{
+    border: 1px solid blue;
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+.border3 {
+    border: 1px solid blue;
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+.border4{
+    border: 1px solid blue;
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+.text{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 55px;
+    
+    
+    
+    
+    
+}
