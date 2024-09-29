@@ -110,6 +110,8 @@ button
     margin-top: 20px;
     border-radius: 20%;
     
+
+    
 }
 
 .border2{
@@ -138,15 +140,37 @@ button
     border-radius: 20%;
 }
 
-.text{
+
+
+#text1{
     color: black;
     display: flex;
-    justify-content: center;
     align-items: center;
-    gap: 55px;
-    
-    
-    
-    
-    
+    justify-content: center;
+    position: relative;
+    top: 200px;
+}
+#text2{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 200px;
+}
+#text3{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 200px;
+}
+#text4{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 200px;
 }
