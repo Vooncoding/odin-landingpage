@@ -1,0 +1,66 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #fff;
+}
+
+.border{
+    border-bottom: 1px solid #323544;
+    height: 400px;
+    background-color: #323544;
+}
+
+.nav{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #fff;
+    
+}
+
+
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    gap: 40px;
+    padding: 15px;
+    margin-right: 100px;
+    color: #fff;
+    
+   
+    
+
+    
+    
+    
+    
+}
+
+.logo{
+    position: absolute;
+    left: 200px;
+    
+}
+
+.main-header{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+
+}
+
+button
+{
+    width: 70px ;
+    color: #fff;
+    background-color: rgb(60, 153, 240);
+    border-radius: 20px;
+}
+
+
+
