@@ -11,6 +11,10 @@
     border-bottom: 1px solid #323544;
     height: 400px;
     background-color: #323544;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #fff;
 }
 
 .nav{
@@ -51,15 +55,40 @@
     flex-direction: column;
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-right: 900px;
+    margin-top: 80px;
 
 }
 
 button
 {
-    width: 70px ;
+    width: 80 px ;
     color: #fff;
     background-color: rgb(60, 153, 240);
-    border-radius: 20px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+.img{
+    position: absolute;
+    top: 100px;
+    right: 500px;
+    border: 1px solid rgba(70, 63, 63, 0.568);
+    height: 250px;
+    width: 400px;
+    background-color: rgba(70, 63, 63, 0.568);
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    color: black;
 }
 
 
