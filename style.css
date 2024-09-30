@@ -5,6 +5,17 @@
     padding: 0;
     text-decoration: none;
     color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #fff;
+}
+
+.body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #fff; 
 }
 
 .border{
@@ -69,6 +80,8 @@ button
     background-color: rgb(60, 153, 240);
     border-radius: 10px;
     height: 30px;
+    color: white;
+    
 }
 
 .img{
@@ -174,3 +187,90 @@ button
     position: relative;
     top: 200px;
 }
+
+.footer .footer-text{
+    
+
+    border: 1px solid #333;
+    height: 200px;
+    margin-top: 150px;
+    background-color: #333;
+    min-width: 1580px;
+
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bold{
+    margin-top: 70px;
+    
+}
+
+.bottom{
+    border: 1px solid rgb(46, 126, 218);
+    height: 100px;
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(46, 126, 218);
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.bottom-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.button-bottom{
+    width: 100px;
+    height: 27px;
+    color: white;
+    border: 1px solid white;
+    margin-left: 500px;
+
+}
+
+.bottom-text{
+    margin-left: 100px;
+    margin-top: 20px;
+
+    
+}
+.button-top{
+    
+        width: 100px;
+        height: 27px;
+        color: white;
+        border: 1px solid white;
+        
+    
+    
+}
+
+.copyright{
+    border: 1px solid #333;
+    height: 100px;
+    background-color: #333;
+
+}
+
+.border-foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+
+
+
